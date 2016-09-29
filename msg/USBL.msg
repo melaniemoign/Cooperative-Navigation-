@@ -1,2 +1,0 @@
-Distance distance
-Bearing bearing
